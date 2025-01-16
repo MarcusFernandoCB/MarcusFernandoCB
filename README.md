@@ -3,7 +3,7 @@
 
 - 🌱 No momento estou aprendendo **Programação front-end, SQL e Python**
 
-- 💬 Tenho experiência com **Excel, PowerBI, Office e Workspace**
+- 💬 Tenho experiência com **Excel, PowerBI, Oracle EBS, Office e Workspace**
 
 - 📫 E-mail para contato: **marcusfcb04@gmail.com**
 
