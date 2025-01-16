@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently learning the basics of data science like SQL and Python programming. From time to time i'll post small projects to build up my portfolio.
 <!--
 **MarcusFernandoCB/MarcusFernandoCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
